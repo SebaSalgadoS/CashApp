@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- Home Fragment -->
+
+    <string name="current_amount_title">Current Amount</string>
+
+</resources>
